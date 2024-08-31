@@ -46,10 +46,10 @@ code
     ㄴ dhshin98             // 본인 git 아이디
         ㄴ session1
             ㄴ example.ipynb // 과제 제출 파일
-            ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
+            ㄴ example_사전과제.ipynb     // 세션 전 사전 학습 내용 공부 정리 파일
         ㄴ session2
             ㄴ example.ipynb // 과제 제출 파일
-            ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
+            ㄴ example_사전과제.ipynb     // 세션 전 사전 학습 내용 공부 정리 파일
         ...
 ```
 
